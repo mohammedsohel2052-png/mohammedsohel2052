@@ -112,9 +112,9 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
-    <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=3" />
+    <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=3" />
   </picture>
 </div>
 
