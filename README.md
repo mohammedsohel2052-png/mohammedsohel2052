@@ -192,14 +192,11 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 ---
 
 
-> ✅ Then go to **Settings → Actions → General → Workflow permissions → Read and write**
 
 ---
 
 <div align="center">
-
-*⭐ If you find my work interesting, consider giving a star to my repos!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
+  <h3>🚀 Current Status: <code>Training in progress...</code></h3>
+  <p>Always experimenting with RAG, Agents, and MLOps. Check back for new releases.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
