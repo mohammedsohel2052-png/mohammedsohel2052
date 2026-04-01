@@ -108,17 +108,18 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 
 ---
 
-## 🐍 Watch Pac-Man Eat My Contributions!
+## 🐍 My Contribution Journey
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
-    <img alt="pac-man contribution graph" src="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=15" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=15" />
+    <img alt="Mohammed's Contribution Snake" src="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif?v=15" width="100%" />
   </picture>
 </div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -190,33 +191,6 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 
 ---
 
-## ⚙️ Pac-Man Setup (One Time Only)
-
-Create `.github/workflows/pacman.yml` in your profile repo:
-
-```yaml
-name: Generate Pac-Man Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-pacman.gif?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 > ✅ Then go to **Settings → Actions → General → Workflow permissions → Read and write**
 
