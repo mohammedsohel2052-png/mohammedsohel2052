@@ -1,61 +1,194 @@
-# Hi there, I'm Mohammed Sohel 👋
+<div align="center">
 
-🤖 AI/ML Engineer passionate about building intelligent systems
-🔭 Currently working on deep learning and NLP projects
-🌱 Always learning the latest in AI research and MLOps
-📍 Mumbai, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Sohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP&descAlignY=51&descAlign=50" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=🤖+AI%2FML+Engineer+%7C+Deep+Learning+%7C+NLP;🔭+Building+Intelligent+Systems+from+Mumbai;🧠+LLMs+%7C+LangChain+%7C+LangGraph+%7C+Gemini;🌱+Always+learning+the+latest+in+AI+research!" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedsohel2052-png&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/mohammedsohel2052-png?style=for-the-badge&color=blue)](https://github.com/mohammedsohel2052-png)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+```python
+class MohammedSohel:
+    def __init__(self):
+        self.name       = "Mohammed Sohel"
+        self.role       = "AI/ML Engineer"
+        self.location   = "Mumbai, India 📍"
+        self.focus      = ["Deep Learning", "NLP", "LLMs", "MLOps"]
+        self.currently  = "Building intelligent systems with LangChain & Gemini"
+        self.learning   = ["LangGraph", "RAG Pipelines", "Agent Frameworks"]
+        self.fun_fact   = "I teach machines to understand humans 🤖"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = MohammedSohel()
+me.say_hi()
+```
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### AI / ML Frameworks
+### 🤖 AI / ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data & MLOps
+### 🧠 LLMs & AI Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### 📊 Data & MLOps
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ☁️ Cloud & Platforms
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🐍 Watch Pac-Man Eat My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
+    <img alt="pac-man contribution graph" src="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
+  </picture>
+</div>
+
+> ⚙️ **Setup:** Add `.github/workflows/pacman.yml` to your profile repo — see instructions below ⬇️
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohammed Sohel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedsohel2052-png&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohel2052-png&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedsohel2052-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsohel2052-png&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohel2052-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohel2052-png&theme=tokyo-night&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedsohel2052-png&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Project 1 — [GestureIQ — AI Sign Language Assistant](https://github.com/mohammedsohel2052-png/gestureiq)
-> Real-time ASL recognition powered by MediaPipe. Learn signs, play games, draw, and type — all with your hands.
+<div align="center">
 
-- **Built with:** React, Vite, MediaPipe, Tailwind CSS
-- **Features:** ASL A–Z recognition, Rock Paper Scissors game, finger drawing canvas, sign-to-text typing
-- **Live:** [gestureiq.vercel.app](https://gestureiq.vercel.app)
+### 🧠 GestureIQ — AI Sign Language Assistant
+[![GestureIQ](https://github-readme-stats.vercel.app/api/pin/?username=mohammedsohel2052-png&repo=gestureiq&theme=tokyonight&hide_border=true)](https://github.com/mohammedsohel2052-png/gestureiq)
+
+</div>
+
+> 🖐️ Real-time ASL recognition powered by MediaPipe. Learn signs, play games, draw, and type — all with your hands.
+
+| Detail | Info |
+|--------|------|
+| 🛠️ Stack | React, Vite, MediaPipe, Tailwind CSS |
+| ✨ Features | ASL A–Z recognition, Rock Paper Scissors, finger drawing, sign-to-text |
+| 🌐 Live | [gestureiq.vercel.app](https://gestureiq.vercel.app) |
+
+---
+
+### 💪 FitDen — AI Fitness Platform
+
+> 🏋️ Your intelligent fitness companion — personalized workouts, nutrition tracking, and AI-powered coaching.
+
+| Detail | Info |
+|--------|------|
+| 🛠️ Stack | React, FastAPI, OpenAI / Gemini, Tailwind CSS |
+| ✨ Features | AI workout generation, nutrition insights, progress tracking |
+| 🌐 Live | [fitden.vercel.app](https://fitden.vercel.app) |
+
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactmohammedsohel@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedsohel2052-png)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
 
-</picture>
+</div>
 
-###
+---
 
-    
+## ⚙️ Pac-Man Setup (One Time)
+
+Create `.github/workflows/pacman.yml` in your profile repo:
+```yaml
+name: Generate Pac-Man Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-pacman.gif?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Then go to **Settings → Actions → General → Workflow permissions → Read and write** ✅
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
