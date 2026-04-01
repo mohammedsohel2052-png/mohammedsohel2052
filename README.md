@@ -111,11 +111,11 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 ## 🐍 Watch Pac-Man Eat My Contributions!
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
-<img alt="pac-man contribution graph" src="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
+    <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052/output/github-contribution-grid-pacman.gif" />
+  </picture>
 </div>
 
 ---
