@@ -2,8 +2,8 @@ name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch: # allows manual run
 
 jobs:
   generate:
@@ -14,7 +14,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-pacman.gif?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-pacman.gif?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&palette=github-light
+      
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
