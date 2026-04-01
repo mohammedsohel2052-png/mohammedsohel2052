@@ -111,11 +111,11 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 ## 🐍 Watch Pac-Man Eat My Contributions!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
-    <img alt="pac-man contribution graph" src="https://github.com/mohammedsohel2052-png/mohammedsohel2052-png/blob/output/github-contribution-grid-pacman.gif?raw=true" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
+<img alt="pac-man contribution graph" src="https://www.google.com/search?q=https://raw.githubusercontent.com/mohammedsohel2052-png/mohammedsohel2052-png/output/github-contribution-grid-pacman.gif" />
+</picture>
 </div>
 
 ---
@@ -131,14 +131,6 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohel2052-png&theme=tokyo-night&hide_border=true" width="98%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedsohel2052-png&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
