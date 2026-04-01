@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Sohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Sohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Co-Founder%20%40%20Arso%20Digitech&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=🤖+AI%2FML+Engineer+%7C+Deep+Learning+%7C+NLP;🔭+Building+Intelligent+Systems+from+Mumbai;🧠+LLMs+%7C+LangChain+%7C+LangGraph+%7C+Gemini;🌱+Always+learning+the+latest+in+AI+research!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=🤖+AI%2FML+Engineer+%7C+Deep+Learning+%7C+NLP;🏢+Co-Founder+%40+Arso+Digitech;🔭+Building+Intelligent+Systems+from+Mumbai;🧠+LLMs+%7C+LangChain+%7C+LangGraph+%7C+Gemini;🌱+Always+learning+the+latest+in+AI+research!" alt="Typing SVG" />
 
 <br/>
 
@@ -14,15 +14,18 @@
 ---
 
 ## 👨‍💻 About Me
+
 ```python
 class MohammedSohel:
     def __init__(self):
-        self.name       = "Mohammed Sohel"
-        self.role       = "AI/ML Engineer"
+        self.name       = "Mohammed Sohel Patwari"
+        self.role       = ["AI/ML Engineer", "Co-Founder @ Arso Digitech"]
         self.location   = "Mumbai, India 📍"
         self.focus      = ["Deep Learning", "NLP", "LLMs", "MLOps"]
+        self.agency     = "Arso Digitech — AI & Digital Solutions"
         self.currently  = "Building intelligent systems with LangChain & Gemini"
         self.learning   = ["LangGraph", "RAG Pipelines", "Agent Frameworks"]
+        self.contact    = "contactmohammedsohel@gmail.com"
         self.fun_fact   = "I teach machines to understand humans 🤖"
 
     def say_hi(self):
@@ -31,6 +34,34 @@ class MohammedSohel:
 me = MohammedSohel()
 me.say_hi()
 ```
+
+---
+
+## 🏢 Co-Founder @ Arso Digitech
+
+<div align="center">
+
+> 🚀 *We build intelligent digital products — from AI-powered web apps to full-scale agency solutions.*
+
+</div>
+
+| | |
+|---|---|
+| 🏢 **Agency** | Arso Digitech |
+| 👤 **Role** | Co-Founder |
+| 🔗 **LinkedIn** | [Arso Digitech](https://www.linkedin.com/in/arsodigitecch) |
+| 💡 **What we do** | AI Integration, Web Development, Digital Transformation |
+| 📧 **Agency Email** | arsodigotech@gmail.com |
+| 📍 **Based in** | Mumbai, India |
+
+We help businesses leverage **AI, automation, and modern web tech** to scale smarter. Open to collaborations and client projects!
+
+<div align="center">
+
+[![Arso Digitech](https://img.shields.io/badge/Arso%20Digitech-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsodigitecch)
+[![Hire Us](https://img.shields.io/badge/Hire%20Us-Let's%20Talk-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsodigotech@gmail.com)
+
+</div>
 
 ---
 
@@ -87,8 +118,6 @@ me.say_hi()
   </picture>
 </div>
 
-> ⚙️ **Setup:** Add `.github/workflows/pacman.yml` to your profile repo — see instructions below ⬇️
-
 ---
 
 ## 📊 GitHub Stats
@@ -99,6 +128,7 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsohel2052-png&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohel2052-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohel2052-png&theme=tokyo-night&hide_border=true" width="98%" />
 
 </div>
@@ -148,19 +178,22 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactmohammedsohel@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn%20(Personal)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedsohel2052)
+[![Agency LinkedIn](https://img.shields.io/badge/LinkedIn%20(Arso%20Digitech)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsodigitecch)
+[![Gmail](https://img.shields.io/badge/Gmail%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactmohammedsohel@gmail.com)
+[![Agency Gmail](https://img.shields.io/badge/Gmail%20(Agency)-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsodigotech@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatwariSohel)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammedsohelpatwari)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedsohel2052-png)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
 ---
 
-## ⚙️ Pac-Man Setup (One Time)
+## ⚙️ Pac-Man Setup (One Time Only)
 
 Create `.github/workflows/pacman.yml` in your profile repo:
+
 ```yaml
 name: Generate Pac-Man Animation
 on:
@@ -185,10 +218,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-> Then go to **Settings → Actions → General → Workflow permissions → Read and write** ✅
+> ✅ Then go to **Settings → Actions → General → Workflow permissions → Read and write**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+*⭐ If you find my work interesting, consider giving a star to my repos!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
