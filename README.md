@@ -181,6 +181,10 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 </div>
 
 ---
+### 📈 My Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohel2052-png&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
 <div align="center">
 
