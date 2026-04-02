@@ -136,13 +136,7 @@ We help businesses leverage **AI, automation, and modern web tech** to scale sma
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedsohel2052-png&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
